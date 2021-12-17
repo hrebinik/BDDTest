@@ -2,7 +2,7 @@
 
 Developed By
 
-Panteleimenko Anton, CHI Software
+Artem Hrebinik, CHI Software
 Kosyi Vlad, CHI Software
 License
 
