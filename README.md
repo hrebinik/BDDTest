@@ -4,9 +4,8 @@
 ## Useful Links
 
 ## Developed By
-
-Artem Hrebinik, CHI Software
-Kosyi Vlad, CHI Software
+* Artem Hrebinik, CHI Software
+* Kosyi Vlad, CHI Software
 
 ## License
 
